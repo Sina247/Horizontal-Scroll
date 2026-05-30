@@ -13,3 +13,8 @@ Horizontal Scroll is a sleek way to navigate content side to side, ideal for gal
 - ⚡ **Performance Optimized** : Lightweight and smooth to ensure a seamless user experience.  
 - 🌍 **Cross-Browser Support** : Compatible with all major modern browsers.  
 - 🔧 **Customizable** : Easily customizable to fit any design or layout requirements.  
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="937" alt="Screenshot 2026-05-30 102425" src="https://github.com/user-attachments/assets/782c7940-4385-4646-87d2-77d6c1f01da0" />
